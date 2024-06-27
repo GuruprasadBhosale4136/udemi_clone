@@ -1,0 +1,657 @@
+
+
+*{
+    margin: 0;
+    border: border-box;
+}
+.navbar{
+    height: 72px;
+    background: white;
+    box-shadow: 0px 2px 10px #00000014 0px 10px 12px #00000014;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+}
+
+.nav-lo{
+    height: 60px;
+    width: 91px;
+}
+
+
+.logo{
+    
+    background-image: url("udemy-logo.png");
+    background-size: cover;
+    height: 60px;
+    width: 91px;
+    position: relative;
+    bottom: 20px;
+}
+
+
+
+.elements{
+
+
+    
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+button{
+    height: 40px;
+    width: 80px;
+
+}
+#two{
+    background-color: black;
+    color: white;
+}
+.searchhhh{
+    display: flex;
+    width: 380px;
+    height: 48px;
+}
+
+.search-bar{
+    
+    /* height: 34px; */
+    width: 308px;
+
+}
+.first{
+    width: 117px;
+    height: 72px;
+    align-items: center;
+}
+
+.elements{
+    position: relative;
+    top: 27px;
+}
+
+.search-bar{
+    display: flex;
+    background-color:white;
+    width: 380px;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+.search-icon{
+    height: 48px;
+    width: 48px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.search-engine{
+    width: 308px;
+    border: none;
+}
+
+
+.fir{
+
+    width: 117px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    color: white;
+
+}
+
+.seccc{
+    width: 117px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+ color: white;
+
+}
+
+
+.image{
+    width: 1163.2px;
+    height: 347.21px;
+    background-image: url("fallback_banner_image_udlite.jpg");
+   position: absolute;
+   left: 110px;
+    /* box-shadow: none; */
+}      
+
+.image-qoutes{
+    height: 196.8px;
+    width: 400px;
+    background-color:white;
+    margin-top: 40px;
+    margin-left: 40px;
+    padding: 24px;
+
+}
+
+/* .font1{
+    
+} */
+
+#font1{
+    font-size: 32px;
+    font-family:'Times New Roman', Times, serif
+
+}
+#font2{
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.mid-level-editing{
+    height: 878.84px;
+    width: 1163.2px;
+    background-color: white;
+    position: absolute;
+    left: 110px;
+    top: 62%;
+    padding: 48px 24px 0;
+}
+.first-point{
+    width: 1115.2px;
+    height: 40px;
+    background-color: white;
+    color: #2D2F31;
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sec-point{
+    height: 26.6px;
+    width: 960px;
+    color: #6a6f73;
+    background-color:white;
+    font-size: 19px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.skills{
+
+    height: 49px;
+    width: 1115.2px;
+    /* background-color: bisque; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-bottom: 0.5px solid black;
+
+}
+
+/* .devONE{
+
+           
+    he
+
+           
+
+} */
+
+.devONE{
+/* 
+    height: 66px;
+    width: 148.8px;
+    border: 2px solid black;
+    background-color: #6a6f73 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    border: none; */
+
+}
+
+.dev2{
+    /* height: 66px;
+    width: 148.8px;
+    border: 2px solid black;
+    background-color: #6a6f73 ; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* border-radius: 25px;
+    border: none; */
+
+}
+
+.dev3{
+
+    /* height: 66px;
+    width: 148.8px;
+    border: 2px solid black;
+    background-color: #6a6f73 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    border: none; */
+
+
+}
+
+.dev4{
+    /* height: 66px;
+    width: 148.8px;
+    border: 2px solid black;
+    background-color: #6a6f73 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    border: none; */
+}
+
+/* .dev5{
+    height: 66px;
+    width: 148.8px;
+    border: 2px solid black;
+    background-color: #6a6f73 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    border: none;
+} */
+.dev6{
+    /* height: 66px;
+    width: 148.8px;
+    border: 2px solid black;
+    background-color: #6a6f73 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    border: none;
+    font-size: 14px; */
+}
+
+.show{
+     height: 48px;
+    width: 297px;
+    border: 2px solid black;
+    padding: 0px 12px;
+    position: relative;
+    top: 200px;
+    left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px; 
+}
+
+/* .compony{
+    height: 226px;
+    width: 1115px;
+    background-color: pink; */
+/* }
+
+.skills{
+
+    height: 49px;
+    width: 1115.2px;
+    background-color: bisque;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}*/
+
+
+.courses{
+
+    height: 66px;
+    width: 1130px;
+    /* background-color: brown; */
+    position: absolute;
+    top: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.item1{
+
+    height: 66px;
+    width: 148.8px;
+    border: 2px solid black;
+    background-color: #2D2431;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    border: none;
+}
+
+
+.item2{
+
+    height: 66px;
+    width: 148.8px;
+    border: 2px solid black;
+    background-color: #E4E8EB ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    border: none;
+
+
+    
+}
+
+
+.item3{
+
+    height: 66px;
+    width: 148.8px;
+    border: 2px solid black;
+    background-color: #E4E8EB ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    border: none;
+
+
+    
+}
+
+
+.item4{
+
+    height: 66px;
+    width: 148.8px;
+    border: 2px solid black;
+    background-color: #E4E8EB ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    border: none;
+
+
+    
+}
+
+
+.item5{
+
+    height: 66px;
+    width: 148.8px;
+    border: 2px solid black;
+    background-color: #E4E8EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    border: none;
+
+
+    
+}
+
+
+.item6
+
+{
+
+    height: 66px;
+    width: 148.8px;
+    border: 2px solid black;
+    background-color: #E4E8EB ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    border: none;
+
+
+    
+}
+
+
+.boxes{
+    width: 1130px;
+    height: 384px; 
+    /* background-color: palevioletred; */
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    top: 150px;
+}
+.box1{
+    height: 384px;
+    width: 364px;
+    background-image: url("udemi\ box1\ repeat\ aain.png");
+    background-size: cover;
+}
+
+
+.box2{
+    height: 384px;
+    width: 364px;
+    background-image: url("udemi2.png");
+    background-size: cover;
+}
+
+
+
+.box3{
+    height: 384px;
+    width: 364px;
+    background-image: url("udemi3.png");
+    background-size: cover;
+}
+
+
+
+ .compony{
+    height: 226px;
+    width: 1100px;
+    /* background-color: pink;  */
+    position: relative;
+    top: 1270px;
+
+   
+    /* left: 8%; */
+ }
+ .names{
+    width: 1311.2px;
+    height: 226.6px;
+    background-image: url("compony\ rea.png");
+    background-size: cover;
+ }
+
+ .final{
+
+
+width: 1163.2px;
+height: 803.15px;
+/* background-color: fuchsia;position: relative; */
+top: 1200px;
+position:relative;
+left:115px;
+padding: 48px 24px;
+
+
+ }
+ .lastone{
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ .last2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #6a6f73;
+ }
+
+ .last3{
+    width: 1115px;
+    height: 300px;
+    /* background-color: grey; */
+    display: flex;
+    justify-content: space-evenly;
+    /* border: 1px solid black; */
+
+ }
+ .last4{
+    width: 361px;
+    height: 489px;
+    background-image:url("1.jpeg") ;
+    background-size: cover;
+ }
+
+ .last5{
+    width: 361px;
+    height: 489px;
+    background-image:url("2.jpeg") ;
+    background-size: cover;
+ }
+
+ .last6{
+    width: 361px;
+    height: 489px;
+    background-image:url("3.jpeg") ;
+    background-size: cover;
+ }
+ /* .photo{
+    width: 900px;
+    height: 500px;
+    background-image: url("mode.png");
+ } */
+
+
+ .footer{
+    width: 150%;
+    height: 320px;
+    /* background-color: greenyellow; */
+    position: relative;
+    top: 1000px;
+    /* padding: 12px 32px; */
+    
+    
+ }
+
+
+ .shevat{
+    width: 69.8%;
+    height: 94px;
+    /* border: 2px solid black;  */
+    background-color: #2d2f31;
+    /* margin: 0px; */
+    font-size: 19px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    display: flex;
+    border-bottom: 1px solid black;
+    /* /* justify-content: center; */
+    /* align-items: center;  */
+    
+ }
+
+ .logo-op{
+
+    width: 552px;
+    height: 68px;
+    /* background-color: #6a6f73; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+    right: -190px;
+
+ }
+ .op-1{
+
+    width: 115px;
+    height: 44px;
+    background-image: url("10-removebg-preview.png");
+    background-size: cover;
+
+ }
+
+ .op-2{
+
+    width:44px;
+    height: 44px;
+    background-image: url("11-removebg-preview.png");
+    background-size: cover;
+
+ }
+
+ .op-3{
+
+    width: 67px;
+    height: 44px;
+    background-image: url("12-removebg-preview.png");
+    background-size: cover;
+
+ }
+ .op-4{
+
+    width: 115px;
+    height: 44px;
+    background-image: url("13-removebg-preview.png");
+    background-size: cover;
+
+ }
+
+ .spell{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+ }
+ .op-5{
+
+    width: 115px;
+    height: 44px;
+    background-image: url("14-removebg-preview.png");
+    background-size: cover;
+
+ }
+
+ .dusra-shevat{
+    width: 100%;
+    height: 293px;
+    background-color: #2d2f31;
+    position: relative;
+    top: 770px;
+    display: flex;
+    padding: 30px 32px 0px ;
+    color: white;
+    justify-content:space-evenly;
+    /* margin: 20px; */
+    border-top: 0.1px solid white;
+ }
+
+ .llo{
+    width: 140px;
+    height: 40px;
+    /* background-color: ; */
+    display: flex;
+    padding: 0px 16px;
+ }
+
+ .brand-logo{
+
+    height: 60px;
+    width: 91px;
+    background-image: url("udemy-logo.png");
+    background-size: cover;
+    position: relative;
+    top: 690px;
+    left: 10px;
+    color: white;
+    
+ }
